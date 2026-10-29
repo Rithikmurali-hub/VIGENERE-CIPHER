@@ -1,8 +1,8 @@
 # VIGENERE-CIPHER
 
-Name:Rithik M
-Register Number:212225040342
-Date:29-10-2026
+## Name:Rithik M
+## Register Number:212225040342
+## Date:29-10-2026
 ## EX. NO: 4
  
 
